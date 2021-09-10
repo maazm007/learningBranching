@@ -1,1 +1,1 @@
-This is the version 1 of branch master
+This is the version 2 of branch Dual
